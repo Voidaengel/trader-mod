@@ -1,0 +1,33 @@
+type: GenericCrafter
+name: "[purple]S.A Öl Verkäufer"
+health: 500
+size: 2
+description: Ein Verkäufer
+liquidCapacity: 200
+itemCapacity:150
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 15
+updateEffect: wet
+outputLiquid: oil/2
+consumes: {
+items: {
+    items: [
+      helix/15
+    ]
+  }
+}
+requirements: [
+  copper/50
+  lead/50
+  titanium/50
+  metaglass/50
+
+]
+category: logic
+research: cryogem-compressor
+ambientSound: respawning
+ambientSoundVolume: 0.5
+
+

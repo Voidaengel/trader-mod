@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: "[purple]S.A Blei Verkauf"
+description: Ein verkäufer
+itemCapacity: 100
+health: 500
+size: 2
+hasPower: fals
+hasItems: true
+craftTime: 60
+updateEffect: mine
+consumes: {
+  items: {
+    items: [
+      helix/1
+    ]
+  },
+}
+requirements: [
+  copper/50
+  lead/50
+]
+category: logic
+research: alloy-smelter
+loopSound: respawning
+loopSoundVolume: 0.95
+ambientSound: respawning
+ambientSoundVolume: 0.5
+outputItem: lead/5

@@ -1,0 +1,30 @@
+type: GenericCrafter
+name: "[purple]S.A Spannungslegierung Verkauf"
+description: Ein verkäufer
+itemCapacity: 500
+health: 500
+size: 2
+hasPower: fals
+hasItems: true
+craftTime: 60
+updateEffect: mine
+consumes: {
+  items: {
+    items: [
+      helix/250
+    ]
+  },
+}
+requirements: [
+  copper/50
+  lead/50
+  titanium/50
+  thorium/50
+]
+category: logic
+research: alloy-smelter
+loopSound: respawning
+loopSoundVolume: 0.95
+ambientSound: respawning
+ambientSoundVolume: 0.5
+outputItem: surge-alloy/1
