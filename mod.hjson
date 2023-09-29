@@ -1,7 +1,7 @@
-name: "VoidÆngel-Legends-mod"
-displayName: "VoidÆngel Legends"
+name: "trader-mod"
+displayName: "trader mod"
 author: Voidaengel
-description: "Neue Technologien"
+description: "a part from my private large mod"
 
 version: "7.0"
 minGameVersion: "146"
