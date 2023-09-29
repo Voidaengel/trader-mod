@@ -22,8 +22,8 @@ requirements: [
 ]
 category: logic
 research: alloy-smelter
-loopSound: respawning
+loopSound: verkauf
 loopSoundVolume: 0.95
-ambientSound: respawning
+ambientSound: verkauf
 ambientSoundVolume: 0.5
 outputItem: thorium/1

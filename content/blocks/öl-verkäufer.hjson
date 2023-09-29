@@ -26,8 +26,7 @@ requirements: [
 
 ]
 category: logic
-research: cryogem-compressor
-ambientSound: respawning
+ambientSound: verkauf
 ambientSoundVolume: 0.5
 
 

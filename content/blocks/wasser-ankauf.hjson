@@ -22,8 +22,8 @@ requirements: [
 ]
 category: logic
 research: alloy-smelter
-loopSound: respawning
+loopSound: ankauf
 loopSoundVolume: 0.95
-ambientSound: respawning
+ambientSound: ankauf
 ambientSoundVolume: 0.5
 outputItem: helix/4
